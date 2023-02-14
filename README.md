@@ -1,1 +1,1 @@
-# computer_vision
+# AD1611 - Computer Vision Laboratory
